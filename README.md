@@ -34,8 +34,8 @@ Pomodoro timer, and lets you repeat the same task over time to see how much you 
 You need Python 3.9 or newer.
 
 ```bash
-git clone <your-repository-url>
-cd study_planner
+git clone <https://github.com/Kamolchik21/Study-planner.git>
+cd Study-planner
 pip install -r requirements.txt
 python main.py
 ```
