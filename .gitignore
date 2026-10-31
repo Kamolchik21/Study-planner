@@ -1,0 +1,9 @@
+planner_data.json
+planner_data.json.bak
+planner_data.json.tmp
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
